@@ -8,18 +8,18 @@ Created to automate repetitive keyboard actions and reduce manual interaction du
 
 ## Features
 
-- Custom key binding
-- Scheduled key triggering
-- Countdown timer
-- Auto close
-- Always-on-top mode
+* Custom key binding
+* Scheduled key triggering
+* Countdown timer
+* Auto close
+* Always-on-top mode
 
 ## Technologies
 
-- C#
-- Windows Forms
-- Visual Studio
+* C#
+* Windows Forms
+* Visual Studio
 
 ## Status
 
-Personal learning project.
+Personal project developed for practical use and workflow automation.
