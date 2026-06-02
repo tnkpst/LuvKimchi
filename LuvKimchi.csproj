@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>LuvKimchi</AssemblyName>
+    <RootNamespace>LuvKimchi</RootNamespace>
+    <ApplicationIcon>LuvKimchi.ico</ApplicationIcon>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>
