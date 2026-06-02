@@ -1,16 +1,25 @@
-# Luv-Kimchi Keyboard Automation Tool
+# LuvKimchi
 
-Desktop application developed using C# and Windows Forms.
+Personal desktop automation tool developed using C# and Windows Forms.
 
-## Features:
+## Purpose
+
+Created to automate repetitive keyboard actions and reduce manual interaction during long-running tasks.
+
+## Features
+
 - Custom key binding
 - Scheduled key triggering
 - Countdown timer
 - Auto close
 - Always-on-top mode
-- Windows keyboard input simulation
 
-## Technology:
+## Technologies
+
 - C#
 - Windows Forms
-- Win32 API
+- Visual Studio
+
+## Status
+
+Personal learning project.
