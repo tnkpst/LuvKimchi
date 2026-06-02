@@ -1,6 +1,6 @@
-# LuvKimchi
+# LuvKimchi-Macro
 
-Personal desktop automation tool developed using C# and Windows Forms.
+Desktop automation utility developed using C# and Windows Forms.
 
 ## Purpose
 
